@@ -50,7 +50,7 @@ log/
 !/plugins/discourse-details/
 #/plugins/*/auto_generated/
 
-/spec/fixtures/plugins/my_plugin/auto_generated
+#/spec/fixtures/plugins/my_plugin/auto_generated
 
 # Ignore Eclipse .project file
 /.project
